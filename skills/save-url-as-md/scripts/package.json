@@ -1,0 +1,13 @@
+{
+  "name": "save-url-as-md-scripts",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.49.0",
+    "unified": "^11.0.5",
+    "rehype-parse": "^9.0.1",
+    "rehype-remark": "^10.0.0",
+    "remark-stringify": "^11.0.0",
+    "hast-util-to-mdast": "^10.1.0"
+  }
+}
